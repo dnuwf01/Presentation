@@ -1,1 +1,1 @@
-This is a presentation on github
+This is a presentation on version control
